@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "yemek_siparis/1.0.0": {
+        "runtime": {
+          "yemek_siparis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "yemek_siparis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
